@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-#eea
+"""Define a class Square."""
+
 
 class Square:
-    #makeee 
+    """Represent a square."""
     pass
